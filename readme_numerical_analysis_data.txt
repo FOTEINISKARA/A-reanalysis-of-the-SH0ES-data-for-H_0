@@ -1,5 +1,5 @@
 
-			***A reanalysis of the SH0ES data for Η0 ***  
+			*** A reanalysis of the SH0ES data for Η0 ***  
 
 ---------------------------------- NUMERICAL ANALYSIS ----------------------------------------------------------
 
