@@ -15,7 +15,7 @@ If you use any of the above codes or the figures in a published work please cite
 
 A reanalysis of the SH0ES data for $H_0$: Effects of new degrees of freedom on the Hubble tension.
 
-Leandros Perivolaropoulos and Foteini Skara  arXiv: 
+Leandros Perivolaropoulos and Foteini Skara  arXiv:2208.11169
 
 
 Any further questions/comments are welcome.
