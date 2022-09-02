@@ -62,7 +62,7 @@ These .fits files are:
 (2150 Cepheids in 37 SnIa hosts, 980 Cepheids in non SnIa hosts, 77 SnIa in Cepheid hosts and 8 constraints).
 The ranking is according to the ranking in the provided vector Y.
 
-4. The file distall.txt includes the distances that may be assigned to 3292 entries of the data-vector Y 
+4. The files distall.txt and distall.dat include the distances that may be assigned to 3292 entries of the data-vector Y 
 (2150 Cepheids in 37 SnIa hosts, 980 Cepheids in non SnIa hosts, 77 SnIa in Cepheid hosts, 8 constraints and 277 SnIa in Hubble flow).
 The ranking is according to the ranking in the provided vector Y.
 
