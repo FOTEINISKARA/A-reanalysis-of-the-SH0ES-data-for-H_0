@@ -4,23 +4,23 @@
 
 The Mathematica (version 11.0) files used for the numerical analysis and for construction of the figures are the following:
 
-1. Baseline1_structure_of_system.nb (Baseline model in the absence  of the inverse distance ladder constraint)
+1. Baseline1_structure_of_system_v11.nb (Baseline model in the absence  of the inverse distance ladder constraint)
 
-2. Baseline2_ inverse_distance_ladder_constraint.nb (Baseline model in the presence of the inverse distance ladder constraint on M_B)
+2. Baseline2_ inverse_distance_ladder_constraint_v11.nb (Baseline model in the presence of the inverse distance ladder constraint on M_B)
 
-3. Figs_1_3_C1_C3.nb (Reanalysis of Individual Cepheid m_W slope data. Homogeneity of the Cepheid modeling parameter b_W)
+3. Figs_1_3_C1_C3_v11.nb (Reanalysis of Individual Cepheid m_W slope data. Homogeneity of the Cepheid modeling parameter b_W)
 
-4. Figs_2_4_5_C2.nb (Reanalysis of Individual Cepheid m_W slope data. Homogeneity of the Cepheid modeling parameter Z_W)
+4. Figs_2_4_5_C2_v11.nb (Reanalysis of Individual Cepheid m_W slope data. Homogeneity of the Cepheid modeling parameter Z_W)
 
-5. Fig_6.nb (Generalized Model Analysis- Search for a transition on M_B)
+5. Fig_6_v11.nb (Generalized Model Analysis- Search for a transition on M_B)
 
-6. Fig_7.nb (Generalized Model Analysis- Search for a transition on b_W)
+6. Fig_7_v11.nb (Generalized Model Analysis- Search for a transition on b_W)
 
-7. Fig_8.nb (Generalized Model Analysis- Search for a transition on M_W)
+7. Fig_8_v11.nb (Generalized Model Analysis- Search for a transition on M_W)
 
-8. Figs_9_10_11 (Generalized Model Analysis- Search for a transition on Z_W - figures for the four transition models)
+8. Figs_9_10_11_v11.nb (Generalized Model Analysis- Search for a transition on Z_W - figures for the four transition models)
 
-9. Figs_12_13 (Generalized Model Analysis- Search for a transition on M_B in the presence of the inverse distance ladder constraint on M_B)
+9. Figs_12_13_v11.nb (Generalized Model Analysis- Search for a transition on M_B in the presence of the inverse distance ladder constraint on M_B)
 
 The Mathematica (version 12.0) files used for the numerical analysis and for construction of the figures are the following:
 
@@ -38,9 +38,9 @@ The Mathematica (version 12.0) files used for the numerical analysis and for con
 
 7. Fig_8_v12.nb (Generalized Model Analysis- Search for a transition on M_W)
 
-8. Figs_9_10_11_v12 (Generalized Model Analysis- Search for a transition on Z_W - figures for the four transition models)
+8. Figs_9_10_11_v12.nb (Generalized Model Analysis- Search for a transition on Z_W - figures for the four transition models)
 
-9. Figs_12_13_v12 (Generalized Model Analysis- Search for a transition on M_B in the presence of the inverse distance ladder constraint on M_B)
+9. Figs_12_13_v12.nb (Generalized Model Analysis- Search for a transition on M_B in the presence of the inverse distance ladder constraint on M_B)
 
 --------------------------------- DATA----------------------------------------------------------
 
