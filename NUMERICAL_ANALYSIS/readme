@@ -2,7 +2,7 @@
 
 ---------------------------------- NUMERICAL ANALYSIS ----------------------------------------------------------
 
-The Mathematica (version 11.0) files used for the numerical analysis and for construction of the figures are the following:
+- The Mathematica (version 11.0) files used for the numerical analysis and for construction of the figures are the following:
 
 1. Baseline1_structure_of_system_v11.nb (Baseline model in the absence  of the inverse distance ladder constraint)
 
@@ -22,7 +22,7 @@ The Mathematica (version 11.0) files used for the numerical analysis and for con
 
 9. Figs_12_13_v11.nb (Generalized Model Analysis- Search for a transition on M_B in the presence of the inverse distance ladder constraint on M_B)
 
-The Mathematica (version 12.0) files used for the numerical analysis and for construction of the figures are the following:
+- The Mathematica (version 12.0) files used for the numerical analysis and for construction of the figures are the following:
 
 1. Baseline1_structure_of_system_v12.nb (Baseline model in the absence  of the inverse distance ladder constraint)
 
@@ -44,7 +44,7 @@ The Mathematica (version 12.0) files used for the numerical analysis and for con
 
 --------------------------------- DATA----------------------------------------------------------
 
-The data files used in our analysis are the following:
+- The data files used in our analysis are the following:
 
 1. The Y=data vector, L=equation matrix (also includes some data), C=covariance matrix obtained  on 25/06/2022 from .fits files of the released 
 dataset at Github repository: https://github.com/PantheonPlusSH0ES/DataRelease 
