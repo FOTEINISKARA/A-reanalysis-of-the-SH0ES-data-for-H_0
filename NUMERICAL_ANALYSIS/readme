@@ -12,15 +12,19 @@
 
 4. Figs_2_4_5_C2_v11.nb (Reanalysis of Individual Cepheid m_W slope data. Homogeneity of the Cepheid modeling parameter Z_W)
 
-5. Fig_6_v11.nb (Generalized Model Analysis- Search for a transition on M_B)
+5. Figs_6_7_v11.nb (The histograms of distributions of the period and metallicity in the Cepheids sample - Kolmogorov Smirnov Test)
 
-6. Fig_7_v11.nb (Generalized Model Analysis- Search for a transition on b_W)
+6. Fig_8_v11.nb (Generalized Model Analysis- Search for a transition on M_B)
 
-7. Fig_8_v11.nb (Generalized Model Analysis- Search for a transition on M_W)
+7. Fig_9_v11.nb (Generalized Model Analysis- Search for a transition on b_W)
 
-8. Figs_9_10_11_v11.nb (Generalized Model Analysis- Search for a transition on Z_W - figures for the four transition models)
+8. Fig_10_v11.nb (Generalized Model Analysis- Search for a transition on M_W)
 
-9. Figs_12_13_v11.nb (Generalized Model Analysis- Search for a transition on M_B in the presence of the inverse distance ladder constraint on M_B)
+9. Figs_11_12_13_v11.nb (Generalized Model Analysis- Search for a transition on Z_W - figures for the four transition models)
+
+10. Figs_14_15_v11.nb (Generalized Model Analysis- Search for a transition on M_B in the presence of the inverse distance ladder constraint on M_B)
+
+11. Figs_16_17_v11.nb (Hints for a transition in the SnIa absolute luminosity and magnitude M_B)
 
 - The Mathematica (version 12.0) files used for the numerical analysis and for construction of the figures are the following:
 
@@ -32,15 +36,19 @@
 
 4. Figs_2_4_5_C2_v12.nb (Reanalysis of Individual Cepheid m_W slope data. Homogeneity of the Cepheid modeling parameter Z_W)
 
-5. Fig_6_v12.nb (Generalized Model Analysis- Search for a transition on M_B)
+5. Figs_6_7_v12.nb (The histograms of distributions of the period and metallicity in the Cepheids sample - Kolmogorov Smirnov Test)
 
-6. Fig_7_v12.nb (Generalized Model Analysis- Search for a transition on b_W)
+6. Fig_8_v12.nb (Generalized Model Analysis- Search for a transition on M_B)
 
-7. Fig_8_v12.nb (Generalized Model Analysis- Search for a transition on M_W)
+7. Fig_9_v12.nb (Generalized Model Analysis- Search for a transition on b_W)
 
-8. Figs_9_10_11_v12.nb (Generalized Model Analysis- Search for a transition on Z_W - figures for the four transition models)
+8. Fig_10_v12.nb (Generalized Model Analysis- Search for a transition on M_W)
 
-9. Figs_12_13_v12.nb (Generalized Model Analysis- Search for a transition on M_B in the presence of the inverse distance ladder constraint on M_B)
+9. Figs_11_12_13_v12.nb (Generalized Model Analysis- Search for a transition on Z_W - figures for the four transition models)
+
+10. Figs_14_15_v12.nb (Generalized Model Analysis- Search for a transition on M_B in the presence of the inverse distance ladder constraint on M_B)
+
+11. Figs_16_17_v12.nb (Hints for a transition in the SnIa absolute luminosity and magnitude M_B)
 
 --------------------------------- DATA----------------------------------------------------------
 
