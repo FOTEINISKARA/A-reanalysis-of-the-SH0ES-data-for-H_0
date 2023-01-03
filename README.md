@@ -3,7 +3,7 @@ Effects of new degrees of freedom on the Hubble tension
 
 ![image](https://user-images.githubusercontent.com/88026221/185812954-b43297df-18f4-4465-a873-f2c98f8b95ad.png)
 
-This repository contains the Mathematica files of arXiv:
+This repository contains the Mathematica files of arXiv:2208.11169
 
 # Abstract
 
